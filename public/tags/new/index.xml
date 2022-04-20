@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>new on Bop</title>
+    <link>http://sejl.dev/tags/new.html</link>
+    <description>Recent content in new on Bop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 15:13:44 +0200</lastBuildDate><atom:link href="http://sejl.dev/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s go!</title>
+      <link>http://sejl.dev/posts/letsgo.html</link>
+      <pubDate>Wed, 20 Apr 2022 15:13:44 +0200</pubDate>
+      
+      <guid>http://sejl.dev/posts/letsgo.html</guid>
+      <description>Testing 1 2 3 It&amp;rsquo;s me; Mario
+Find Out More</description>
+    </item>
+    
+  </channel>
+</rss>
