@@ -1,0 +1,6 @@
+baseURL = 'http://sejl.dev/'
+languageCode = 'en-us'
+title = 'Bop'
+theme = "newsroom"
+relativeURLs = "true"
+uglyURLs = "true"
